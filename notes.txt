@@ -1,0 +1,6 @@
+
+
+Notes:
+
+- A los botones cambiarles el bg transparente y cuando se haga hover blanco
+- nav bar responsive

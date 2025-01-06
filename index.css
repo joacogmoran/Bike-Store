@@ -18,11 +18,13 @@ p { letter-spacing: 0.5px; }
 }
 
 main {
+    background-color: #000;
     background-image: url(./assets/background2.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
     position: relative;
+    height: 100%;
 }
 
 main > section { position: relative; }
